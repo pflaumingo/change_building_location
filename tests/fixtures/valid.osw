@@ -1,0 +1,16 @@
+{
+  "measure_paths": [
+    "../measures/"
+  ],
+  "run_directory": "./run",
+  "steps": [
+    {
+      "measure_dir_name": "ChangeBuildingLocation",
+      "name": "Change Building Location",
+      "arguments": {
+        "__SKIP__": false,
+        "weather_file_name": "/Users/npflaum/Documents/GitHub/InsightStudioMeasures/measures/ChangeBuildingLocation/tests/fixtures/valid_weather_file.epw"
+      }
+    }
+  ]
+}

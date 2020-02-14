@@ -1,0 +1,18 @@
+{
+   "completed_at" : "20200211T202608Z",
+   "completed_status" : "Fail",
+   "hash" : "3B45BCA2",
+   "measure_paths" : [ "../measures/" ],
+   "run_directory" : "./run",
+   "steps" : [
+      {
+         "arguments" : {
+            "__SKIP__" : false,
+            "weather_file_name" : "/Users/npflaum/Documents/GitHub/InsightStudioMeasures/measures/ChangeBuildingLocation/tests/fixtures/valid_weather_file.epw"
+         },
+         "measure_dir_name" : "ChangeBuildingLocation",
+         "name" : "Change Building Location"
+      }
+   ],
+   "updated_at" : "20200211T202608Z"
+}
